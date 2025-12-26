@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 jogo para treina as habilidades de desenvolvimento
 jogo feito na unity versão(6000.0.62f1)
-pode ser feita melhorias para quem quiser ajudar nesse desenvolvimento
+pode fazer melhorias para quem quiser ajudar nesse desenvolvimento
 =======
 jogo de nave simples em 2D
 feito para intreterimento e esta disponivel para quem quiser treinar o desenvolvimento de jogos 
